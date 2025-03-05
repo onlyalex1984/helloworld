@@ -39,6 +39,9 @@ logs/
 log/
 *.log
 
+# Documentation folder
+.docs/
+
 ### Security and Secrets ###
 # Environment variables
 .env
